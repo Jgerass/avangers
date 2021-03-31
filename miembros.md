@@ -1,5 +1,6 @@
 # Miembros
 
+* Nick fures
 * Black panther
 * Black Widow
 * Capitán Marvel
